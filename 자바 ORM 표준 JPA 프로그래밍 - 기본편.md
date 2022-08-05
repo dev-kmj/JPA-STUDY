@@ -13,6 +13,6 @@
 ## 이광민 
 정리 링크 : https://plaid-slayer-dde.notion.site/Transactional-section-2-658a5ebdafb541a08f137853dc143a09
 ## 강문정
-정리 링크 :
+정리 링크 : https://velog.io/@k_moonj/JPA-%EA%B5%AC%EB%8F%99%EB%B0%A9%EC%8B%9D
 ## 윤상진 
 정리 링크: 
