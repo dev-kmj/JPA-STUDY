@@ -15,4 +15,4 @@
 ## 강문정
 정리 링크 : https://velog.io/@k_moonj/JPA-%EA%B5%AC%EB%8F%99%EB%B0%A9%EC%8B%9D
 ## 윤상진 
-정리 링크: 
+정리 링크: https://sangjin22.tistory.com/108
