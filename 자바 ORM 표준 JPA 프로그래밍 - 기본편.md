@@ -16,3 +16,11 @@
 정리 링크 : https://velog.io/@k_moonj/JPA-%EA%B5%AC%EB%8F%99%EB%B0%A9%EC%8B%9D
 ## 윤상진 
 정리 링크: https://sangjin22.tistory.com/108
+# 자바 ORM 표준 JPA 프로그래밍 - 기본편 <Chapter 3 정리> 
+## 날짜: 2022.08.09
+## 이광민 
+정리 링크 : https://numchar.tistory.com/11
+## 강문정
+정리 링크 : 
+## 윤상진 
+정리 링크: 
