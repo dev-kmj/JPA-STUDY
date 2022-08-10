@@ -21,6 +21,6 @@
 ## 이광민 
 정리 링크 : https://numchar.tistory.com/11
 ## 강문정
-정리 링크 : 
+정리 링크 : <a href="https://velog.io/@k_moonj/%EC%98%81%EC%86%8D%EC%84%B1-%EA%B4%80%EB%A6%AC-JPA-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0">링크</a>
 ## 윤상진 
 정리 링크: https://sangjin22.tistory.com/111
