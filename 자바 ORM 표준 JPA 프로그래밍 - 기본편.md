@@ -27,7 +27,7 @@
 # 자바 ORM 표준 JPA 프로그래밍 - 기본편 <Chapter 4 정리> 
 ## 날짜: 2022.08.12
 ## 이광민 
-정리 링크 :
+정리 링크 : https://numchar.tistory.com/12
 ## 강문정
 정리 링크 : https://velog.io/@k_moonj/%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%A4%ED%95%91
 ## 윤상진 
